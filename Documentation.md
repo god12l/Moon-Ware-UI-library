@@ -1,9 +1,11 @@
-# Orion Library
+# Moon-Ware Library
 This documentation is for the stable release of Moon-Ware Library.
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenDeno/Venyx-UI-Library/main/source.lua"))()
+local venyx = library.new("Moon-ware", 5013109572)
+
 ```
 
 
