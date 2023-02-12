@@ -3,8 +3,8 @@ This documentation is for the stable release of Moon-Ware Library.
 
 ## Booting the Library
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/GreenDeno/Venyx-UI-Library/main/source.lua"))()
-local venyx = library.new("Moon-ware", 5013109572)
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/god12l/Moon-Ware-UI-library/main/Moon-Ware%20UI%20source%20code"))()
+local Moon-ware = library.new("Moon-Ware", 5013109572)
 
 ```
 
